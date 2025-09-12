@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qISUzxiwavvvMD+aqNkg09Fbr1uZVGeRkhG7PvYNbqI=",
+  "Source": "ECommerce.Catalog",
+  "BasePath": "_content/ECommerce.Catalog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
