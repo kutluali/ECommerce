@@ -5,10 +5,18 @@
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/ECommerce.Catalog.runtimeconfig.json
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/ECommerce.Catalog.dll
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/ECommerce.Catalog.pdb
+/Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/AutoMapper.dll
+/Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/DnsClient.dll
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/MongoDB.Bson.dll
+/Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/MongoDB.Driver.dll
+/Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/SharpCompress.dll
+/Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/Snappier.dll
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/bin/Debug/net8.0/ZstdSharp.dll
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/ECommerce.Catalog.csproj.AssemblyReference.cache
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/ECommerce.Catalog.GeneratedMSBuildEditorConfig.editorconfig
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/ECommerce.Catalog.AssemblyInfoInputs.cache
@@ -16,6 +24,7 @@
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/ECommerce.Catalog.csproj.CoreCompileInputs.cache
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/ECommerce.Catalog.MvcApplicationPartsAssemblyInfo.cs
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/ECommerce.Catalog.MvcApplicationPartsAssemblyInfo.cache
+/Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/ECommerce.Catalog.sourcelink.json
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/staticwebassets.build.json
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/staticwebassets.development.json
 /Users/alikutlu/Desktop/Projeler/ECommerce/Services/Catalog/ECommerce.Catalog/obj/Debug/net8.0/staticwebassets/msbuild.ECommerce.Catalog.Microsoft.AspNetCore.StaticWebAssets.props
